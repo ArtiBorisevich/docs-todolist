@@ -15,6 +15,10 @@
     "message": "To Do List herunterladen",
     "description": "The label of footer link with label=Download To Do List linking to https://dhtmlx.com/docs/products/dhtmlxTodo/download.shtml"
   },
+  "link.item.label.Product page": {
+    "message": "Produktseite",
+    "description": "The label of footer link with label=Product page linking to https://dhtmlx.com/docs/products/dhtmlxTodo/"
+  },
   "link.item.label.Examples": {
     "message": "Beispiele",
     "description": "The label of footer link with label=Examples linking to https://snippet.dhtmlx.com/3vwlbwee?tag=todolist"
