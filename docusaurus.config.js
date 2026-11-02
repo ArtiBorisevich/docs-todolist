@@ -220,6 +220,11 @@ module.exports = {
                             position: 'right'
                         },
                         {
+                            label: 'Product page',
+                            href: 'https://dhtmlx.com/docs/products/dhtmlxTodo/',
+                            position: 'right'
+                        },
+                        {
                             label: 'Examples',
                             href: 'https://snippet.dhtmlx.com/3vwlbwee?tag=todolist',
                             position: 'right'
